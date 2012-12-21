@@ -9,4 +9,5 @@ tagline:
   {% for post in site.posts limit 25%}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
+      <li><span>sssssssss</span> &raquo; <a href="test.html">test.html</a></li>
 </ul>
