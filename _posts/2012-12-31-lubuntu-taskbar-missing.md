@@ -8,7 +8,7 @@ title : Lubuntu任务栏消失的问题以及解决办法
 <p>Lubuntu任务栏消失的问题以及解决办法</p>
 <ul>
   <li>最开始在网上找解决办法，</li>
-    第一种说法：
+>第一种说法：
 
     在teminal里面输入xfce4-panel，可以修复；
 
