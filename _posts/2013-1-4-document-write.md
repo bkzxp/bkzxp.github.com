@@ -90,4 +90,4 @@ title : 软件功能说明书书写
 	<li><div style="background-color:#ffcccc;">用途说明</div></li></ul></li></ul></li>
 	<li><div>注</div>
 		<ul>
-	<li><div>还没有书写还不清楚有哪些注意事项；</div></li></ul></li></ul></li></ul></li></ul></div>
+	<li><div>还没有书写这一部分，还不清楚有哪些注意事项；</div></li></ul></li></ul></li></ul></li></ul></div>
