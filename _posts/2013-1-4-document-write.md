@@ -24,7 +24,7 @@ title : 软件功能说明书书写
 	<li><div>功能点的命名动宾/主谓关系要保持一致；名字的字数要尽可能保持一致，如：都是4个字，或都是6个字；不要使用能让用户误解的字词；名字命名时避免大、空，要贴切功能点；</div></li></ul></li>
 	<li><div style="background-color:#00ffcc;">功能列表</div>
 		<ul>
-	<li><img src="软件功能说明书书写.html_files/icons/yes.png" alt="yes"/> <div style="background-color:#ffcccc;">用途说明</div>
+	<li><img src="/assets/img/yes.png" alt="yes" title="yes"/><div style="background-color:#ffcccc;">用途说明</div>
 		<ul>
 	<li><div>用途说明：使用用户的口吻描述该功能的用途；描述通过使用该功能能够完成什么样的工作；如果需要，还需指明操作的数据内容、操作方式等，但不限于这两个；最好，写出功能点在业务分析说明书中的出处；表达描述中，不能让业务人员无法理解；</div></li></ul></li></ul></li></ul></li>
 	<li><div style="background-color:#ccccff;">权限控制</div>
@@ -49,7 +49,7 @@ title : 软件功能说明书书写
 		<ul>
 	<li><div style="background-color:#00ffcc;">功能点</div>
 		<ul>
-	<li><img src="软件功能说明书书写.html_files/icons/yes.png" alt="yes"/> <div style="background-color:#ffcccc;">应用场景</div>
+	<li><img src="/assets/img/yes.png" alt="yes" title="yes"/><div style="background-color:#ffcccc;">应用场景</div>
 		<ul>
 	<li><div>使用用户的口吻描述该功能的场景；在什么情况下会使用该功能点；场景可能不止一个；如果多角色使用该功能点，则要分开进行描述，因为不同角色使用的重点内容不同；“应用场景”是对功能点最重要的描述；</div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">参考界面</div>
