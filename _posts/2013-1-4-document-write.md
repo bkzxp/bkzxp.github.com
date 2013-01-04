@@ -5,13 +5,12 @@ tags : [文档书写]
 title : 软件功能说明书书写
 ---
 
-[baidu](http://www.baidu.com/)
 <div><ul>
 	<li><div style="background-color:#ff0000;">软件功能说明书书写</div>
 		<ul>
 	<li><div>注</div>
 		<ul>
-	<li><div>本说明针对模板文件[〖TG-IT(AA03)〗软件功能说明书](http://vdisk.weibo.com/s/mtOTA/)</div></li>
+	<li><div>本说明针对模板文件<a href="http://vdisk.weibo.com/s/mtOTA/">〖TG-IT(AA03)〗软件功能说明书</a></div></li>
 	<li><div>对取消掉的部分应该把标题灰掉</div></li>
 	<li><div>排版要好，才显专业</div></li></ul></li>
 	<li><div style="background-color:#9999ff;">应用架构</div>
