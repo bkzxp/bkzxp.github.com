@@ -10,7 +10,7 @@ title : 软件功能说明书书写
 		<ul>
 	<li><div>注</div>
 		<ul>
-	<li><div>本说明针对模板文件〖TG-IT(AA03)〗软件功能说明书.doc 新浪微盘 http://vdisk.weibo.com/s/mtOTA</div></li>
+	<li><div>本说明针对模板文件〖TG-IT(AA03)〗软件功能说明书.doc [http://vdisk.weibo.com/s/mtOTA](http://vdisk.weibo.com/s/mtOTA,'新浪微盘')</div></li>
 	<li><div>对取消掉的部分应该把标题灰掉</div></li>
 	<li><div>排版要好，才显专业</div></li></ul></li>
 	<li><div style="background-color:#9999ff;">应用架构</div>
