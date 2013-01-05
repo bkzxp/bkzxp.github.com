@@ -37,9 +37,9 @@ title : 软件功能说明书书写(未完)
 	<li><div>项目有哪些人使用</div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">职能说明</div>
 		<ul>
-	<li><div>能够做哪些操作</div>
-		<ul>
-	<li><div>列出功能点</div></li></ul></li></ul></li></ul></li>
+	<li><div>能够做哪些操作</div></li>	
+	<li><div>列出功能点</div></li>
+</ul></li></ul></li>
 	<li><div>注</div>
 		<ul>
 	<li><div>先进行权限控制的书写，最好的方法是从项目使用者的角色入手；角色确定以后， 业务划分中的HSF图就可以根据这些角色来分出大的业务块；</div></li></ul></li></ul></li></ul></li>
