@@ -8,7 +8,7 @@ title : 人月神话目录
 <div><ul>
 	<li><div  style="background-color:#ff0000;">人月神话</div>
 		<ul>
-	<li><div><a href="./2013/1/30/man/month/read01/">焦油坑</a> </li>
+	<li><div><a href="./lessons/2013/1/30/man-month-read01/">焦油坑</a> </li>
 	<li><div><a href="人月神话分支.mm">人月神话</a> <a href="人月神话分支.mm"></a></div></li>
 	<li><div>外科手术队伍</div></li>
 	<li><div>贵族专治、民主政治和系统设计</div></li>
