@@ -6,7 +6,7 @@ title : 人月神话--焦油坑
 ---
 
 <div><ul>
-	<li><div style="background-color:#ff0000;"><a href="http://bkzxp.github.com/lessons/2013/01/30/man-month-read00/" title="返回《人月神话》目录">返回《人月神话》目录</a></div>
+	<li><div style="background-color:#ff0000;"><a href="/lessons/2013/01/30/man-month-read00/" title="返回《人月神话》目录">返回《人月神话》目录</a></div>
 		<ul>
 	<li><div style="background-color:#9999ff;">职业的乐趣</div>
 		<ul>
