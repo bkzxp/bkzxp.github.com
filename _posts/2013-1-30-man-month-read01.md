@@ -1,7 +1,7 @@
 ---
 layout : post
 category : lessons
-tags : [读书] [人月神话]
+tags : [读书]
 title : 焦油坑
 ---
 
