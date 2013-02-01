@@ -5,9 +5,9 @@ tags : [读书, 人月神话]
 title : 人月神话--焦油坑
 ---
 
-<div><ul>
-	<li><div style="background-color:#ff0000;"><a href="/lessons/2013/01/30/man-month-read00/" title="返回《人月神话》目录">返回《人月神话》目录</a></div>
-		<ul>
+<div><ul><li>
+	<div style="background-color:#ff0000;"><a href="/lessons/2013/01/30/man-month-read00/" title="返回《人月神话》目录">返回《人月神话》目录</a></div>
+	<ul>
 	<li><div style="background-color:#9999ff;">职业的乐趣</div>
 		<ul>
 	<li><div style="background-color:#00ffcc;">编程有什么乐趣？他的从业者期望从中得到什么快乐？</div></li>
@@ -48,4 +48,7 @@ title : 人月神话--焦油坑
 		<ul>
 	<li><div style="background-color:#00ffcc;">一个许多人痛苦挣扎的焦油坑以及一种乐趣和苦恼共存的创造性活动。</div>
 		<ul>
-	<li><div>BK记住，是一种创造性活动。</div></li></ul></li></ul></li></ul></li></ul></div>
+	<li><div>BK记住，是一种创造性活动。</div></li></ul></li></ul></li></ul>
+	<div style="background-color:#ff0000;"><a href="/lessons/2013/01/30/man-month-read02/" title="下一篇">下一篇</a></div>
+</li>
+</ul></div>
