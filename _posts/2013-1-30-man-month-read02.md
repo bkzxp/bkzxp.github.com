@@ -8,7 +8,7 @@ title : 人月神话--人月神话
 
 <div><ul>
 	<li><div style="background-color:#cc0000;">
-<a href="/lessons/2013/01/30/man-month-read00/" title="返回《人月神话》目录">返回《人月神话》目录</a>
+<a href="/lessons/2013/01/30/man-month-read00/" title="返回《人月神话》目录">返回《人月神话》目录</a></div><div style="background-color:#cc0000;">
 <a href="/lessons/2013/01/30/man-month-read01/" title="上一篇">上一篇</a></div>
 	<ul>
 	<li><div style="background-color:#00cc66;">项目滞后的最主要原因是什么</div>
