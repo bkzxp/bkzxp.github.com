@@ -10,10 +10,10 @@ title : 人月神话--目录
 	<li><div><a href="/lessons/2013/01/30/man-month-read01/" title="焦油坑">焦油坑</a> </div></li>
 	<li><div><a href="/lessons/2013/01/30/man-month-read02/" title="人月神话">人月神话</a> </div></li>
 	<li><div><a href="/lessons/2013/03/11/man-month-read03/" title="外科手术队伍">外科手术队伍</a> </div></li>
-	<li><div><a href="/lessons/2013/01/30/man-month-read04/" title="贵族专治、民主政治和系统设计">贵族专治、民主政治和系统设计</a> </div></li>
-	<li><div><a href="/lessons/2013/01/30/man-month-read05/" title="画蛇添足">画蛇添足</a> </div></li>
-	<li><div><a href="/lessons/2013/01/30/man-month-read06/" title="贯彻执行">贯彻执行</a> </div></li>
-	<li><div><a href="/lessons/2013/01/30/man-month-read07/" title="为什么巴比伦塔会失败">为什么巴比伦塔会失败</a> </div></li>
+	<li><div><a href="/lessons/2013/03/11/man-month-read04/" title="贵族专治、民主政治和系统设计">贵族专治、民主政治和系统设计</a> </div></li>
+	<li><div><a href="/lessons/2013/03/11/man-month-read05/" title="画蛇添足">画蛇添足</a> </div></li>
+	<li><div><a href="/lessons/2013/03/11/man-month-read06/" title="贯彻执行">贯彻执行</a> </div></li>
+	<li><div><a href="/lessons/2013/03/11/man-month-read07/" title="为什么巴比伦塔会失败">为什么巴比伦塔会失败</a> </div></li>
 	<li><div><a href="/lessons/2013/01/30/man-month-read08/" title="胸有成竹">胸有成竹</a> </div></li>
 	<li><div><a href="/lessons/2013/01/30/man-month-read09/" title="削足适履">削足适履</a> </div></li>
 	<li><div><a href="/lessons/2013/01/30/man-month-read10/" title="提纲挈领">提纲挈领</a> </div></li>
