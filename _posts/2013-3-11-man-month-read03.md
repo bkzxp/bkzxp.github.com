@@ -1,3 +1,10 @@
+---
+layout : post
+category : lessons
+tags : [读书, 人月神话]
+title : 人月神话--外科手术队伍
+---
+
 <div><ul>
 	<li><div style="background-color:#cc0000;">
 <a href="/lessons/2013/01/30/man-month-read00/" title="返回《人月神话》目录"><font color="#FFFF00" >返回《人月神话》目录</font></a>
