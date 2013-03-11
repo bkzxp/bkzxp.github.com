@@ -8,7 +8,7 @@ title : 人月神话--贯彻执行
 <div><ul>
 	<li><div style="background-color:#cc0000;">
 <a href="/lessons/2013/01/30/man-month-read00/" title="返回《人月神话》目录"><font color="#FFFF00" >返回《人月神话》目录</font></a>
-<a href="/lessons/2013/03/11/man-month-read04/" title="上一篇">上一篇</a></div>
+<a href="/lessons/2013/03/11/man-month-read05/" title="上一篇">上一篇</a></div>
 		<ul>
 	<li><div style="background-color:#009900;">文档化的规格说明——手册 </div>
 		<ul>
@@ -31,5 +31,5 @@ title : 人月神话--贯彻执行
 	<li><div>当问题出现时，在界线的内部和外部同时寻求解决方案。</div></li>
 	<li><div>正式的书面建议集中了注意力，强制了决策的制订，避免了会议草稿纪要方式的不 一致。</div></li>
 	<li><div>清晰地授予首席结构师决策的权力，避免了妥协和拖延。</div></li></ul></li></ul></li></ul>
-	<div style="background-color:#ff0000;"><a href="/lessons/2013/03/11/man-month-read06/" title="下一篇">下一篇</a></div>
+	<div style="background-color:#ff0000;"><a href="/lessons/2013/03/11/man-month-read07/" title="下一篇">下一篇</a></div>
 </li></ul></div>
