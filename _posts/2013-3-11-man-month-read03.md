@@ -52,5 +52,5 @@ title : 人月神话--外科手术队伍
 	<li><div style="background-color:#6699ff;">要特别注意传统的两人队伍与外科医生——副手队伍架构之间的区别。首先，传统的 团队将工作进行划分，每人负责一部分工作的设计和实现。在外科手术团队中，外科医生和 副手都了解所有的设计和全部的代码。</div></li>
 	<li><div style="background-color:#6699ff;">观点的不一致由外科医生单方面来统一。这两种团队组建上的差异——对问 题不进行分解和上下级的关系——使外科手术队伍可以达到客观的一致性。</div></li>
 	<li><div style="background-color:#6699ff;">团队中剩余人员职能的专业化分工是高效的关键，它使成员之间采用非常简单 的交流模式成为可能。</div></li></ul></li></ul>
-	<div style="background-color:#ff0000;"><a href="/lessons/2013/03/30/man-month-read04/" title="下一篇">下一篇</a></div>
+	<div style="background-color:#ff0000;"><a href="/lessons/2013/03/11/man-month-read04/" title="下一篇">下一篇</a></div>
 </li></ul></div>
