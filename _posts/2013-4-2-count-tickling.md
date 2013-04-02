@@ -14,7 +14,7 @@ title : 统计反馈
 	<li><div>提供给大家统计反馈的情况</div></li></ul></li>
 	<li><div>下载地址</div>
 		<ul>
-	<li><div><a href="http://vdisk.weibo.com/s/vY1CS" title="新浪微盘">Hi，推荐文件给你 "统计反馈V2.1.xls"</a></div></li></ul></li>
+	<li><div><a href="http://vdisk.weibo.com/s/vY7Zj" title="新浪微盘">Hi，推荐文件给你 "统计反馈V2.1.xls"</a></div></li></ul></li>
 	<li><div>使用说明</div>
 		<ul>
 	<li><div>一.阅读</div>
