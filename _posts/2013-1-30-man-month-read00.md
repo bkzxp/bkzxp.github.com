@@ -14,8 +14,8 @@ title : 人月神话--目录
 	<li><div><a href="/lessons/2013/03/11/man-month-read05/" title="画蛇添足">画蛇添足</a> </div></li>
 	<li><div><a href="/lessons/2013/03/11/man-month-read06/" title="贯彻执行">贯彻执行</a> </div></li>
 	<li><div><a href="/lessons/2013/03/11/man-month-read07/" title="为什么巴比伦塔会失败">为什么巴比伦塔会失败</a> </div></li>
-	<li><div><a href="/lessons/2013/01/30/man-month-read08/" title="胸有成竹">胸有成竹</a> </div></li>
-	<li><div><a href="/lessons/2013/01/30/man-month-read09/" title="削足适履">削足适履</a> </div></li>
+	<li><div><a href="/lessons/2013/04/08/man-month-read08/" title="胸有成竹">胸有成竹</a> </div></li>
+	<li><div><a href="/lessons/2013/04/08/man-month-read09/" title="削足适履">削足适履</a> </div></li>
 	<li><div><a href="/lessons/2013/01/30/man-month-read10/" title="提纲挈领">提纲挈领</a> </div></li>
 	<li><div><a href="/lessons/2013/01/30/man-month-read11/" title="未雨绸缪">未雨绸缪</a> </div></li>
 	<li><div><a href="/lessons/2013/01/30/man-month-read12/" title="干将莫邪">干将莫邪</a> </div></li>
