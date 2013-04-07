@@ -46,5 +46,5 @@ title : 人月神话--为什么巴比伦塔会失败
 	<li><div>这种安排同样能使工作非常有效</div></li></ul></li></ul></li>
 	<li><div style="background-color:#0066ff;">最后一种安排对小型的团队是最好的选择，对于真正大型项目中的一些开发队伍，我认为产品负责人作为管理者是更合适的 安排。</div></li>
 	<li><div style="background-color:#0066ff;">交流和交流的结果— —组织，是成功的关键。交流和组织的技能需要管理者仔细考虑，相关经验的积累和能力的 提高同软件技术本身一样重要。</div></li></ul></li></ul>
-	<div style="background-color:#ff0000;"><a href="/lessons/2013/03/11/man-month-read08/" title="下一篇">下一篇</a></div>
+	<div style="background-color:#ff0000;"><a href="/lessons/2013/04/08/man-month-read08/" title="下一篇">下一篇</a></div>
 </li></ul></div>
