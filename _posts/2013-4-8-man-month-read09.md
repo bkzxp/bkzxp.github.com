@@ -8,7 +8,7 @@ title : 人月神话--削足适履
 <div><ul>
 	<li><div style="background-color:#cc0000;">
 <a href="/lessons/2013/01/30/man-month-read00/" title="返回《人月神话》目录"><font color="#FFFF00" >返回《人月神话》目录</font></a>
-<a href="/lessons/2013/03/11/man-month-read08/" title="上一篇">上一篇</a></div>
+<a href="/lessons/2013/04/08/man-month-read08/" title="上一篇">上一篇</a></div>
 		<ul>
 	<li><div style="background-color:#009900;">作为成本的程序空间</div>
 		<ul>
