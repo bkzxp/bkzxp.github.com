@@ -60,16 +60,16 @@ title : 使用Wiki后的总结
 		<ul>
 	<li><div style="background-color:#ffcccc;">通常使用</div>
 		<ul>
-	<li><div><code>|_.UserID|_.Name|_.Group|</code>：下划线以及点号，表明了该行是表格表头行；把下划线以及点号去掉，就是普通行。另外一种也可以，就是使用*号，如 <code>|*NO*  |*接口名称* |	*用途说明*|</code></div></li></ul></li>
+	<li><div><code>|_.UserID|_.Name|_.Group|</code>：下划线以及点号，表明了该行是表格表头行；把下划线以及点号去掉，就是普通行。另外一种也可以，就是使用*号，如<br /> <code>|*NO*  |*接口名称* |	*用途说明*|</code></div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">单元格单行横向合并</div>
 		<ul>
 	<li><div><code>|\3=.IT|</code>：3表示合并的单元格的个数，英文标点点号与管道符之间的文字为该单元格的内容</div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">单元格单列纵向合并</div>
 		<ul>
-	<li><div><code><p>
+	<li><div><code>
       |5|张三|/2.Users|
-    </p><p>
-      |6|李四| </p> </code>  2表示纵向合并的个数
+    <br />
+      |6|李四|  </code>  2表示纵向合并的个数
     </div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">臆想</div>
 		<ul>
@@ -87,8 +87,8 @@ title : 使用Wiki后的总结
     </p></div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">文字颜色</div>
 		<ul>
-	<li><div><code>{background:#999}.</code>：别忘了加英文的点号</div></li>
-	<li><div><code>{color:#999}.</code>：别忘了加英文的点号</div></li>
+	<li><div><code>{background:#999}.</code>别忘了加英文的点号</div></li>
+	<li><div><code>{color:#999}.</code>别忘了加英文的点号</div></li>
 	<li><div><a href="http://blog.chinaunix.net/uid-1877180-id-1740096.html">http://blog.chinaunix.net/uid-1877180-id-1740096.html</a></div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">缩进</div>
 		<ul>
