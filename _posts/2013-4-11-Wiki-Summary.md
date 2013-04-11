@@ -15,10 +15,10 @@ title : 使用Wiki后的总结
 	<li><div>在Redmine中使用Wiki编辑文档后，整理我编写过程中所遇到的Wiki知识。后来了解了更多的wiki知识，在网上搜了搜，以我自己的理解，写下这篇文章。望对wiki理解深刻的TX围观、评价。</div></li></ul></li>
 	<li><div  style="background-color:#9999ff;">Wiki知识</div>
 		<ul>
-	<li><div  style="background-color:#ccccff;">我的探索过程</div>
+	<li><div  style="background-color:#009900;">我的探索过程</div>
 		<ul>
 	<li><div style="background-color:#00ffcc;">在了解Redmine中的wiki时，发现了这篇文章“<a href="http://redmine.ossxp.com/redmine/documents/8">Redmine wiki的文本格式</a>”，其中提到“Redmine默认使用Textile作为wiki的文本格式过滤器, 当然你也可以下载其他文本格式过滤器插件(Markdown, reST等),以下介绍的语法都是基于Textile的语法”。等一等，难道Wiki自己没有语法吗？他的意思是Redmine也可以使用Markdown来作为Wiki的文本格式过滤器吗？我们知道Markdown是有自己的语法的，那么Wiki到底是个什么？</div></li></ul></li>
-	<li><div style="background-color:#ccccff;">什么是wiki？</div>
+	<li><div style="background-color:#009900;">什么是wiki？</div>
 		<ul>
 	<li><div style="background-color:#00ffcc;">Wiki是软件、系统？是语法概念？还是一种语言？刚接触wiki的时候搞不明白它到底是什么，我们看看</div>
 <ul>
@@ -27,7 +27,7 @@ title : 使用Wiki后的总结
 </ul>
 
 	</li></ul></li>
-	<li><div style="background-color:#ccccff;">wiki语法？wiki到底有没有语法？</div>
+	<li><div style="background-color:#009900;">wiki语法？wiki到底有没有语法？</div>
 		<ul>
 	<li><div style="background-color:#00ffcc;">还在纠结wiki是否有语法吗？</div></li>
 	<li><div style="background-color:#00ffcc;">维基百科词条Wiki的特征中<a href="https://zh.wikipedia.org/wiki/Wiki">提到</a>：沃德·坎宁安和波·路夫（Bo Leuf）在《The Wiki Way: Quick Collaboration on the Web》一书中描述了Wiki概念的几个本质特征</div>
@@ -36,10 +36,10 @@ title : 使用Wiki后的总结
 	<li><div>Wiki中用户使用很多方式来编辑。通常需要通过文本标记语言。</div></li></ul></li>
 	<li><div style="background-color:#00ffcc;">终于发现了，编辑Wiki是需要其他语言来实现的（如Markdown、Textile）。So,Wiki不是一种语言，其实也就没有所谓的Wiki语法，通常说的Wiki的语法就是指编辑维基百科的Wiki时用的语法，而维基百科是用“<a href="http://zh.wikipedia.org/wiki/MediaWiki">MediaWiki</a>”的<a href="http://zh.wikipedia.org/wiki/Help:%E7%BC%96%E8%BE%91%E9%A1%B5%E9%9D%A2">语法</a>。</div></li>
 	<li><div style="background-color:#00ffcc;">Wiki是一种技术。</div></li></ul></li>
-	<li><div style="background-color:#ccccff;">认识Textile、markdown等</div>
+	<li><div style="background-color:#009900;">认识Textile、markdown等</div>
 		<ul>
 	<li><div style="background-color:#00ffcc;">他们是“轻量级的标记语言”，可以在wiki中<a href="http://forum.libracafe.com/comments.php?DiscussionID=107">使用</a></div></li></ul></li>
-	<li><div style="background-color:#ccccff;">mediawiki、Dokuwiki等是什么</div>
+	<li><div style="background-color:#009900;">mediawiki、Dokuwiki等是什么</div>
 		<ul>
 	<li><div style="background-color:#00ffcc;"><a href="http://zh.wikipedia.org/wiki/Wiki%E5%BC%95%E6%93%8E">Wiki引擎</a></div></li></ul></li></ul></li>
 	<li><div  style="background-color:#9999ff;">Textile 语法</div>
@@ -48,10 +48,10 @@ title : 使用Wiki后的总结
 	<li><div><a href="http://qt-project.org/wiki/TextileSyntax_SimplifiedChinese#6ba7a320100686b22f39ce180e0df716">http://qt-project.org/wiki/TextileSyntax_SimplifiedChinese#6ba7a320100686b22f39ce180e0df716</a></div></li></ul></li>
 	<li><div  style="background-color:#9999ff;">编辑Redmine中Wiki</div>
 		<ul>
-	<li><div style="background-color:#ccccff;">增加Wiki</div>
+	<li><div style="background-color:#009900;">增加Wiki</div>
 		<ul>
 	<li><div style="background-color:#00ffcc;">http://您的IP地址:您的端口/projects/项目标识/wiki/新建的wiki的名称。也可以这样说，当你打开Wiki后，直接在地址栏的“***/wiki/”后面写上你准备新建的wiki的名称，回车即完成了新建过程。</div></li></ul></li>
-	<li><div style="background-color:#ccccff;">编辑Wiki</div>
+	<li><div style="background-color:#009900;">编辑Wiki</div>
 		<ul>
 	<li><div style="background-color:#00ffcc;">引用</div>
 		<ul>
@@ -98,7 +98,7 @@ title : 使用Wiki后的总结
 	<li><div style="background-color:#ffcccc;">!{width:300px}image_url! 设置图片的显示宽度</div></li></ul></li></ul></li></ul></li>
 	<li><div  style="background-color:#9999ff;">备注</div>
 		<ul>
-	<li><div style="background-color:#ccccff;">不完全相同的语法</div>
+	<li><div style="background-color:#009900;">不完全相同的语法</div>
 		<ul>
 	<li><div style="background-color:#00ffcc;">标记语言间</div>
 		<ul>
@@ -107,13 +107,13 @@ title : 使用Wiki后的总结
 		<ul>
 	<li><div><a href="https://www.dokuwiki.org/zh:wiki:syntax">DokuWiki</a>的删除线格式是“<del>删除线</del>”，MediaWiki的则是“<strike>删除线</strike>,<s>简易删除线</s>”</div></li></ul></li>
 	<li><div style="background-color:#00ffcc;">这就解释了：为什么我最初把mediawiki生成表格的示例贴到textile(Redmine的Wiki)中，不能生成表格</div></li></ul></li>
-	<li><div style="background-color:#ccccff;">是谁确定了wiki引擎的基本语法？</div>
+	<li><div style="background-color:#009900;">是谁确定了wiki引擎的基本语法？</div>
 		<ul>
 	<li><div>如：不同wiki引擎，*，**，***，#，##，###等表示的意思大体都是一样的</div></li></ul></li>
-	<li><div style="background-color:#ccccff;">Redmine中的Textile的语法还是比较简单的，相比mediawiki、Dokuwiki引擎</div></li>
-	<li><div style="background-color:#ccccff;">比较Wiki引擎</div>
+	<li><div style="background-color:#009900;">Redmine中的Textile的语法还是比较简单的，相比mediawiki、Dokuwiki引擎</div></li>
+	<li><div style="background-color:#009900;">比较Wiki引擎</div>
 		<ul>
 	<li><div><a href="http://www.wikimatrix.org/index.php">http://www.wikimatrix.org/index.php</a></div></li>
 	<li><div><a href="http://www.wikimatrix.org/show/dokuwiki">http://www.wikimatrix.org/show/dokuwiki</a></div></li>
 	<li><div><a href="http://linux.cn/thread/7113/1/1/">http://linux.cn/thread/7113/1/1/</a></div></li></ul></li>
-	<li><div style="background-color:#ccccff;">Redmine用户手册：<a href="http://www.ossxp.com/doc/redmine/user_guide/user_guide.html#id32">http://www.ossxp.com/doc/redmine/user_guide/user_guide.html#id32</a></div></li></ul></li></ul></li></ul></div>
+	<li><div style="background-color:#009900;">Redmine用户手册：<a href="http://www.ossxp.com/doc/redmine/user_guide/user_guide.html#id32">http://www.ossxp.com/doc/redmine/user_guide/user_guide.html#id32</a></div></li></ul></li></ul></li></ul></div>
