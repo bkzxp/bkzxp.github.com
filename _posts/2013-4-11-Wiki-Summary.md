@@ -60,7 +60,7 @@ title : 使用Wiki后的总结
 		<ul>
 	<li><div style="background-color:#ffcccc;">通常使用</div>
 		<ul>
-	<li><div>|_.UserID|_.Name|_.Group|：下划线以及点号，表明了该行是表格表头行；把下划线以及点号去掉，就是普通行。另外一种也可以，就是使用*号，如 |*NO*  |*接口名称* |	*用途说明*|</div></li></ul></li>
+	<li><div>`|_.UserID|_.Name|_.Group|`：下划线以及点号，表明了该行是表格表头行；把下划线以及点号去掉，就是普通行。另外一种也可以，就是使用*号，如 `|*NO*  |*接口名称* |	*用途说明*|`</div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">单元格单行横向合并</div>
 		<ul>
 	<li><div>|\3=.IT|：3表示合并的单元格的个数，英文标点点号与管道符之间的文字为该单元格的内容</div></li></ul></li>
