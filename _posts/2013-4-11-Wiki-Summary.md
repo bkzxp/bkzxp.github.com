@@ -105,7 +105,7 @@ title : 使用Wiki后的总结
 	<li><div>毫无疑问，不同语言间的语法本来就不一样，但是因为他们隶属于轻量级的标记语言，所以在语法的形式上体现出一定的相似性</div></li></ul></li>
 	<li><div style="background-color:#00ffcc;">Wiki引擎间</div>
 		<ul>
-	<li><div><a href="https://www.dokuwiki.org/zh:wiki:syntax">DokuWiki</a>的删除线格式是“`&lt;del&gt;删除线&lt;/del&gt;`”，MediaWiki的则是“`&lt;strike&gt;删除线&lt;/strike&gt;`,`&lt;s&gt;简易删除线&lt;/s&gt;`”</div></li></ul></li>
+	<li><div><a href="https://www.dokuwiki.org/zh:wiki:syntax">DokuWiki</a>的删除线格式是“`<del>删除线</del>`”，MediaWiki的则是“`<strike>删除线</strike>`,`<s>简易删除线</s>`”</div></li></ul></li>
 	<li><div style="background-color:#00ffcc;">这就解释了：为什么我最初把mediawiki生成表格的示例贴到textile(Redmine的Wiki)中，不能生成表格</div></li></ul></li>
 	<li><div style="background-color:#009900;">是谁确定了wiki引擎的基本语法？</div>
 		<ul>
