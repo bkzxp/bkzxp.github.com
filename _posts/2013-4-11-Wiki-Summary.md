@@ -60,17 +60,17 @@ title : 使用Wiki后的总结
 		<ul>
 	<li><div style="background-color:#ffcccc;">通常使用</div>
 		<ul>
-	<li><div>`|_.UserID|_.Name|_.Group|`：下划线以及点号，表明了该行是表格表头行；把下划线以及点号去掉，就是普通行。另外一种也可以，就是使用*号，如 `|*NO*  |*接口名称* |	*用途说明*|`</div></li></ul></li>
+	<li><div><code>|_.UserID|_.Name|_.Group|</code>：下划线以及点号，表明了该行是表格表头行；把下划线以及点号去掉，就是普通行。另外一种也可以，就是使用*号，如 <code>|*NO*  |*接口名称* |	*用途说明*|</code></div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">单元格单行横向合并</div>
 		<ul>
-	<li><div>|\3=.IT|：3表示合并的单元格的个数，英文标点点号与管道符之间的文字为该单元格的内容</div></li></ul></li>
+	<li><div><code>|\3=.IT|</code>：3表示合并的单元格的个数，英文标点点号与管道符之间的文字为该单元格的内容</div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">单元格单列纵向合并</div>
 		<ul>
-	<li><div><p>
+	<li><div><code><p>
       |5|张三|/2.Users|
     </p><p>
-      |6|李四|                  2表示纵向合并的个数
-    </p></div></li></ul></li>
+      |6|李四| </p> </code>  2表示纵向合并的个数
+    </div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">臆想</div>
 		<ul>
 	<li><div>纵向横向一起合并，我摸索了半天，没弄出来，用户手册也没有给出方法</div></li></ul></li></ul></li>
@@ -87,15 +87,15 @@ title : 使用Wiki后的总结
     </p></div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">文字颜色</div>
 		<ul>
-	<li><div>{background:#999}.：别忘了加英文的点号</div></li>
-	<li><div>{color:#999}.：别忘了加英文的点号</div></li>
+	<li><div><code>{background:#999}.</code>：别忘了加英文的点号</div></li>
+	<li><div><code>{color:#999}.</code>：别忘了加英文的点号</div></li>
 	<li><div><a href="http://blog.chinaunix.net/uid-1877180-id-1740096.html">http://blog.chinaunix.net/uid-1877180-id-1740096.html</a></div></li></ul></li>
 	<li><div style="background-color:#ffcccc;">缩进</div>
 		<ul>
 	<li><div>用户手册中并没有讲如何缩进，使用半角空白字符是不起作用的，使用全角的空格字符倒是可以实现缩进。</div></li></ul></li></ul></li>
 	<li><div style="background-color:#00ffcc;">图片</div>
 		<ul>
-	<li><div style="background-color:#ffcccc;">!{width:300px}image_url! 设置图片的显示宽度</div></li></ul></li></ul></li></ul></li>
+	<li><div style="background-color:#ffcccc;"><code>!{width:300px}image_url!</code> 设置图片的显示宽度</div></li></ul></li></ul></li></ul></li>
 	<li><div  style="background-color:#9999ff;">备注</div>
 		<ul>
 	<li><div style="background-color:#009900;">不完全相同的语法</div>
