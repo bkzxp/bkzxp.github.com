@@ -5,7 +5,6 @@ tags : [Wiki]
 title : 使用Wiki后的总结
 ---
 
-
 <div><ul>
 	<li>
 		<div>使用Wiki后的总结</div>
@@ -55,11 +54,11 @@ title : 使用Wiki后的总结
 		<ul>
 	<li><div>引用</div>
 		<ul>
-	<li><pre><div>对同目录的其他wiki文件的引用，使用：
+	<li><div>对同目录的其他wiki文件的引用，使用：
 
-		{{include(projectname:Foo)}}
+<code>{{include(projectname:Foo)}}</code>
 
-	</div></pre></li></ul></li>
+	</div></li></ul></li>
 	<li><div>表格</div>
 		<ul>
 	<li><div>通常使用</div>
@@ -73,8 +72,7 @@ title : 使用Wiki后的总结
 	<li><div><code>
       |5|张三|/2.Users|
     <br />
-      |6|李四|  </code>  2表示纵向合并的个数
-    </div></li></ul></li>
+      |6|李四|</code>  2表示纵向合并的个数</div></li></ul></li>
 	<li><div>臆想</div>
 		<ul>
 	<li><div>纵向横向一起合并，我摸索了半天，没弄出来，用户手册也没有给出方法</div></li></ul></li></ul></li>
@@ -88,9 +86,7 @@ title : 使用Wiki后的总结
       h2. 二级标题
     </p><p>
       h3. 三级标题
-    </p></div></li></ul></li>
-	<li><div>文字颜色</div>
-		<ul>
+    </p></div></li></ul></li><li><div>文字颜色</div><ul>
 	<li><div><code>{background:#999}.</code>别忘了加英文的点号</div></li>
 	<li><div><code>{color:#999}.</code>别忘了加英文的点号</div></li>
 	<li><div><a href="http://blog.chinaunix.net/uid-1877180-id-1740096.html">http://blog.chinaunix.net/uid-1877180-id-1740096.html</a></div></li></ul></li>
