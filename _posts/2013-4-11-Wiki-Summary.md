@@ -30,7 +30,7 @@ title : 使用Wiki后的总结
 	<li><div>wiki语法？wiki到底有没有语法？</div>
 		<ul>
 	<li><div>还在纠结wiki是否有语法吗？</div></li>
-	<li><div>维基百科词条Wiki的特征中<a href="https://zh.wikipedia.org/wiki/Wiki">提到</a>：沃德·坎宁安和波·路夫（Bo Leuf）在《The Wiki Way: Quick Collaboration on the Web》一书中描述了Wiki概念的几个本质特征</div>
+	<li><div>维基百科在词条Wiki的特征中<a href="https://zh.wikipedia.org/wiki/Wiki">提到</a>：沃德·坎宁安和波·路夫（Bo Leuf）在《The Wiki Way: Quick Collaboration on the Web》一书中描述了Wiki概念的几个本质特征：</div>
 		<ul>
 	<li><div>Wiki允许任何用户在Wiki网站内剪辑任何页面或新建页面，不需要任何额外的附加组件，只需通过普通的网页浏览器即可。</div></li>
 	<li><div>Wiki中用户使用很多方式来编辑。通常需要通过文本标记语言。</div></li></ul></li>
