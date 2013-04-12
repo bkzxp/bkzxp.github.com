@@ -12,7 +12,7 @@ title : 使用Wiki后的总结
 		<ul>
 	<li><div >说明</div>
 		<ul>
-	<li><div>在Redmine中使用Wiki编辑文档后，整理我编写过程中所遇到的Wiki知识。后来了解了更多的wiki知识，在网上搜了搜，以我自己的理解，写下这篇文章。望对wiki理解深刻的TX围观、评价。</div></li></ul></li>
+	<li><div>在Redmine中使用Wiki编辑文档后，我想整理下在编写过程中所遇到的Wiki知识。后来在网上搜了搜，了解了更多的wiki知识，以我自己的理解，写下这篇文章。望对wiki理解深刻的TX围观、留言。</div></li></ul></li>
 	<li><div >Wiki知识</div>
 		<ul>
 	<li><div >我的探索过程</div>
