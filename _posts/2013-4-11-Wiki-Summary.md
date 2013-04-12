@@ -55,11 +55,11 @@ title : 使用Wiki后的总结
 		<ul>
 	<li><div>引用</div>
 		<ul>
-	<li><div>对同目录的其他wiki文件的引用，使用：
+	<li><pre><div>对同目录的其他wiki文件的引用，使用：
 
-		<pre>{{include(projectname:Foo)}}</pre>
+		{{include(projectname:Foo)}}
 
-	</div></li></ul></li>
+	</div></pre></li></ul></li>
 	<li><div>表格</div>
 		<ul>
 	<li><div>通常使用</div>
