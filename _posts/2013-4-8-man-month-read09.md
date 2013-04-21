@@ -27,5 +27,5 @@ title : 人月神话--削足适履
 		<ul>
 	<li><div>战略上突破常来自数据或表的重新表达——这是程序的核心所在</div></li>
 	<li><div>由于缺乏空间而绞尽脑汁的编程人员，常常能通过从自己的代码中挣脱出来，回顾、 分析实际情况，仔细思考程序的数据，最终获得非常好的结果。实际上，数据的表现形式是 编程的根本</div></li></ul></li></ul>
-	<div style="background-color:#ff0000;"><a href="/lessons/2013/04/08/man-month-read10/" title="下一篇">下一篇</a></div>
+	<div style="background-color:#ff0000;"><a href="/lessons/2013/04/21/man-month-read10/" title="下一篇">下一篇</a></div>
 </li></ul></div>
