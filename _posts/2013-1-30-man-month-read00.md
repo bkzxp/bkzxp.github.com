@@ -6,7 +6,7 @@ title : 人月神话--目录
 ---
 
 <div><ul><li><div style="background-color:#ff0000;">人月神话</div>
-	<ul>
+<ul>
 	<li><div><a href="/lessons/2013/01/30/man-month-read01/" title="焦油坑">焦油坑</a> </div></li>
 	<li><div><a href="/lessons/2013/01/30/man-month-read02/" title="人月神话">人月神话</a> </div></li>
 	<li><div><a href="/lessons/2013/03/11/man-month-read03/" title="外科手术队伍">外科手术队伍</a> </div></li>
@@ -25,5 +25,5 @@ title : 人月神话--目录
 	<li><div><a href="/lessons/2013/01/30/man-month-read16/" title="没有银弹-软件工程中的根本和次要问题">没有银弹-软件工程中的根本和次要问题</a> </div></li>
 	<li><div><a href="/lessons/2013/01/30/man-month-read17/" title="再论没有银弹">再论没有银弹</a> </div></li>
 	<li><div><a href="/lessons/2013/01/30/man-month-read18/" title="人月神话的观点:是或非">人月神话的观点:是或非</a> </div></li>
-	</ul>
+</ul>
 </li></ul></div>
