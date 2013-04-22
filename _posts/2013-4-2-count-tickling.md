@@ -165,4 +165,9 @@ title : 统计反馈
 	<li><div style="background-color:#ccccff;">整列引用和有限区域引用</div>
 		<ul>
 	<li><div>SUM(A:A), MATCH(B1,A:A,), VLOOKUP(C1,A:B,2,) SUMIF(A:A,"A",B:B) 这些公式里的A:A或A:B，我们称之为整列引用。在普通公式中，这种引用经常能见到。 但是我们也经常见到这样的写法：SUM(A1:A1000),VLOOKUP(C1,A1:B999,2,) 有些人认为，后一种写法（称之为“有限范围引用”吧）由于其范围远远小于整列，其速度应该比整列引用要快得多。 但是实际上不是这样的。 比如， 按我们通常的说法，SUMIF和COUNTIF是个“遍历算法”，就是说它把指定范围内的数据从头到尾检查一遍。比如SUMIF(A1:A100,"A",B1:B100)这个公式要检查A1:A100这100个单元格，看看哪一个是"A"。按照这种说法来推理，SUM(A:A,"A",B:B)这个公式就要检查65536个单元格了。实际并非如此。做个测试就知道，这两个公式的速度基本上是一样的。 我觉得，EXCEL在处理这个问题上是有“智能”的。 它首先检测你用到的最后一个单元格，你的所有计算都将限制在A1到最后一个单元格之间，而不管你的公式怎么写。 比如，如果你只有A1:A10，这10单元格有数据，那么不管你的公式写成SUM(A1:A10)，或SUM(A1:A1000),还是SUM(A:A)，计算量都是一样多的，它只计算10个单元格，所用时间是一样的。 所以，从我测试结果来看，普通公式写成有限范围引用是没有必要的。完全可以写成整列引用。 数组公式怎么样？2003及更低版本的数组公式不允许写成整列引用。 但2007版的可以。<br/><a href="http://club.excelhome.net/thread-339339-1-1.html">http://club.excelhome.net/thread-339339-1-1.html</a></div></li>
-	<li><div><a href="http://support.microsoft.com/kb/166342/zh-cn">http://support.microsoft.com/kb/166342/zh-cn</a></div></li></ul></li></ul></li></ul></li></ul></div>
+	<li><div><a href="http://support.microsoft.com/kb/166342/zh-cn">http://support.microsoft.com/kb/166342/zh-cn</a></div>
+	</li></ul></li></ul></li></ul></li></ul></div>
+	
+	有了新的版本了，较上一版本月的任务数可以定义。
+	
+	下载：<a href='http://vdisk.weibo.com/s/yviDX'>统计反馈V2.2.xls</a>
