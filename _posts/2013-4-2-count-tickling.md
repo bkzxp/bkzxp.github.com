@@ -168,6 +168,6 @@ title : 统计反馈
 	<li><div><a href="http://support.microsoft.com/kb/166342/zh-cn">http://support.microsoft.com/kb/166342/zh-cn</a></div>
 	</li></ul></li></ul></li></ul></li></ul></div>
 	
-	有了新的版本了，较上一版本月的任务数可以定义。
+有了新的版本了，较上一版本月的任务数可以定义。
 	
-	下载：<a href='http://vdisk.weibo.com/s/yviDX'>统计反馈V2.2.xls</a>
+下载：<a href='http://vdisk.weibo.com/s/yviDX'>统计反馈V2.2.xls</a>
