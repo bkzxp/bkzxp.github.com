@@ -56,7 +56,7 @@ title : 使用Wiki后的总结
 <ul>
 <li><div>对同目录的其他wiki文件的引用，使用：
 <code>
- {{include(projectname:Foo)}}
+ 两个左向花括号代替include(projectname:Foo)两个右向花括号代替
 </code>
 </div></li></ul></li>
 <li><div>表格</div>
