@@ -55,7 +55,9 @@ title : 使用Wiki后的总结
 <li><div>引用</div>
 <ul>
 <li><div>对同目录的其他wiki文件的引用，使用：
-<code>{{include(projectname:Foo)}}</code>
+<code>
+ 两个左向花括号代替include(projectname:Foo)两个右向花括号代替
+</code>
 </div></li></ul></li>
 <li><div>表格</div>
 <ul>
@@ -85,8 +87,8 @@ title : 使用Wiki后的总结
     </p><p>
       h3. 三级标题
     </p></div></li></ul></li><li><div>文字颜色</div><ul>
-<li><div><code>{background:#999}.</code>别忘了加英文的点号</div></li>
-<li><div><code>{color:#999}.</code>别忘了加英文的点号</div></li>
+<li><div><code>{background:#999}</code></div></li>
+<li><div><code>{color:#999}</code></div></li>
 <li><div><a href="http://blog.chinaunix.net/uid-1877180-id-1740096.html">http://blog.chinaunix.net/uid-1877180-id-1740096.html</a></div></li></ul></li>
 <li><div>缩进</div>
 <ul>
