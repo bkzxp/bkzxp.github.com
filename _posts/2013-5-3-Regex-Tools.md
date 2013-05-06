@@ -7,7 +7,7 @@ title : 正则替换工具对正则的支持(1)
 
  *本文还未完成，链接页面还未添加*
  
-  ~~注本文是整理性文章，非记录性文章(2013.4.20 plan~2013.5.6 done)~~
+  *注本文是整理性文章，非记录性文章(2013.4.20 plan~2013.5.6 done)*
   
  最近领导说让把PHP代码的注释部分生成Wiki放到Redmine上面。而Redmine上面的Wiki是有一定的格式的。而把PHP代码的注释部分提取出来是很简单的，使用PHPDocumentor就可以。而PHPDocumentor生成的是Web格式、HTML代码。于是我就有必要写一套（Redmine下的）Wiki样式的模板。
  
