@@ -6,6 +6,8 @@ title : 正则替换工具对正则的支持(1)
 ---
 
 
+ *本文还未完成，链接页面还未添加*
+ 
   ~~注本文是整理性文章，非记录性文章~~
   
  最近领导说让把PHP代码的注释部分生成Wiki放到Redmine上面。而Redmine上面的Wiki是有一定的格式的。而把PHP代码的注释部分提取出来是很简单的，使用PHPDocumentor就可以。而PHPDocumentor生成的是Web格式、HTML代码。于是我就有必要写一套（Redmine下的）Wiki样式的模板。
@@ -30,9 +32,9 @@ title : 正则替换工具对正则的支持(1)
  8. ……（很多）
  
  所以呢，就在网上找了点小软件，下面一个一个地说：
-
- -  Search and Replace(版本6.5) 
-  - 功能：证词匹配、搜索子目录、正则、忽略空格、更改文件属性、脚本等
-  - 使用了一下，开始感觉好强大，但当我需要进行正则中的[零宽断言](http://baike.baidu.com/view/5201192.htm)时，发现它不支持，而我又是必须使用的，那就换一个
- * RegexTester(版本1.0.8.0)
-  - 该软件是[deerchao的blog](http://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html#balancedgroup)中推荐的正则表达式测试软件
+ 
+ - Search and Replace(版本6.5) 
+  + 功能：证词匹配、搜索子目录、正则、忽略空格、更改文件属性、脚本等
+  + 使用了一下，开始感觉好强大，但当我需要进行正则中的[零宽断言](http://baike.baidu.com/view/5201192.htm)时，发现它不支持，而我又是必须使用的，那就换一个
+ - RegexTester(版本1.0.8.0)
+  + 该软件是[deerchao的blog](http://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html#balancedgroup)中推荐的正则表达式测试软件
