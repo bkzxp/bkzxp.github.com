@@ -13,7 +13,7 @@ title : 正则替换工具对正则的支持
  
  于是就在 phpDocumentor\Converters\HTML\Smarty\templates 下，将PHP目录复制了一份，该名称为Wiki，并且准备把Wiki目录里面的模板改成Wiki可识别的形式。
  
- 在我了解了Wiki后([详见文章](http://bkzxp.github.io/lessons/2013/04/11/Wiki-Summary/))，便把Wiki目录里面的相关模板的HTML标签去掉（关于PHP形式中各个模板的关系详见[这篇文章](http://www.xx.com)），因为Wiki语法并不是标签样式的；然后，使用命令
+ 在我了解了Wiki后([详见文章](http://bkzxp.github.io/lessons/2013/04/11/Wiki-Summary/))，便把Wiki目录里面的相关模板的HTML标签去掉（关于PHP形式中各个模板的关系详见[这篇文章](http://bkzxp.github.io/lessons/2013/05/08/PhpDocumentor-Tpls/)），因为Wiki语法并不是标签样式的；然后，使用命令
  
      -o HTML:Smarty:Wiki    
      
