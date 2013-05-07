@@ -54,25 +54,25 @@ title : Phpdocumentor Smarty-PHP模板中各个Tpl之间关系
 
  1. 各个Tpl模板间的 include 关系
     - 代码中直接写明了 include 其他 tpl 文件的那些文件(我就用->表示吧)
-     * index -> header  black  footer (省去了后缀 tpl 以及点.，下同)
-     * page -> header  black  footer 
-     * class -> header docblock var method const footer
-     * todolist -> header footer
-     * classtrees -> header footer
-     * elementindex -> header basicindex footer
-     * pkgelementindex -> header basicindex footer
-     * errors -> header footer
-     * examplesource -> header footer
-     * filesource -> header footer
-     * ric -> header footer
+        * index -> header  black  footer (省去了后缀 tpl 以及点.，下同)
+        * page -> header  black  footer 
+        * class -> header docblock var method const footer
+        * todolist -> header footer
+        * classtrees -> header footer
+        * elementindex -> header basicindex footer
+        * pkgelementindex -> header basicindex footer
+        * errors -> header footer
+        * examplesource -> header footer
+        * filesource -> header footer
+        * ric -> header footer
     - 需要特别说明的是：以下几个 tpl 文件同时 include 了 docblock.tpl 模板
-     * include
-     * global
-     * define
-     * function
-     * var
-     * method
-     * const
+        * include
+        * global
+        * define
+        * function
+        * var
+        * method
+        * const
     - 其他的 tpl 文件则是被包含的 tpl。以上就是它们在模板中的关系。
  2. 在执行 phpdoc 命令生成文件后，页面间的关系
     - index.html 页面 使用的是 index.tpl 模板
