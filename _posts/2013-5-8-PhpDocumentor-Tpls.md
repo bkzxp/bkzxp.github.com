@@ -53,7 +53,7 @@ title : Phpdocumentor Smarty-PHP模板中各个Tpl之间关系
 从两个方面说。
 
  1. 各个Tpl模板间的 include 关系
-  - 代码中直接写明了 include 其他 tpl 文件的那些文件(我就用->表示吧)
+    - 代码中直接写明了 include 其他 tpl 文件的那些文件(我就用->表示吧)
      * index -> header  black  footer (省去了后缀 tpl 以及点.，下同)
      * page -> header  black  footer 
      * class -> header docblock var method const footer
@@ -65,7 +65,7 @@ title : Phpdocumentor Smarty-PHP模板中各个Tpl之间关系
      * examplesource -> header footer
      * filesource -> header footer
      * ric -> header footer
-  - 需要特别说明的是：以下几个 tpl 文件同时 include 了 docblock.tpl 模板
+    - 需要特别说明的是：以下几个 tpl 文件同时 include 了 docblock.tpl 模板
      * include
      * global
      * define
@@ -73,14 +73,14 @@ title : Phpdocumentor Smarty-PHP模板中各个Tpl之间关系
      * var
      * method
      * const
-  - 其他的 tpl 文件则是被包含的 tpl。以上就是它们在模板中的关系。
+    - 其他的 tpl 文件则是被包含的 tpl。以上就是它们在模板中的关系。
  2. 在执行 phpdoc 命令生成文件后，页面间的关系
-  - index.html 页面 使用的是 index.tpl 模板
-  - 左侧的 Files 列表、Classes 列表分别对应 fileleft.tpl、classleft.tpl，而 header.tpl 暗暗地 include 了这两个 tpl 文件
-  - 左侧的 Files 列表中的链接，打开的是 page.tpl 对应的模板
-  - 左侧的 Classes 列表中的链接，打开的是 class.tpl 对应的模板
-  - 右上角的 classtrees、index、all elements 分别对应模板 classtrees.tpl、pkgelementindex.tpl、elementindex.tpl
-  - 其他的 error.html、todolist.html 就不用说了，它们是单独的页面。
-  - 在 header.tpl 中 发现了 和 tutorial.tpl、tutorial_toc.tpl、tutorial_tree.tpl 相关的代码。我在完成该任务的过程中并没有生成使用 tutorial.tpl 的文件，具体还不太清楚。
+    - index.html 页面 使用的是 index.tpl 模板
+    - 左侧的 Files 列表、Classes 列表分别对应 fileleft.tpl、classleft.tpl，而 header.tpl 暗暗地 include 了这两个 tpl 文件
+    - 左侧的 Files 列表中的链接，打开的是 page.tpl 对应的模板
+    - 左侧的 Classes 列表中的链接，打开的是 class.tpl 对应的模板
+    - 右上角的 classtrees、index、all elements 分别对应模板 classtrees.tpl、pkgelementindex.tpl、elementindex.tpl
+    - 其他的 error.html、todolist.html 就不用说了，它们是单独的页面。
+    - 在 header.tpl 中 发现了 和 tutorial.tpl、tutorial_toc.tpl、tutorial_tree.tpl 相关的代码。我在完成该任务的过程中并没有生成使用 tutorial.tpl 的文件，具体还不太清楚。
 
 写这篇文章是为了方便了解各个模板之间的关系，也方便以后更改生成文件的模板格式。
