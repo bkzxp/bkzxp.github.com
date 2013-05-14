@@ -32,24 +32,24 @@ title : 正则替换工具对正则的支持
  
 所以呢，就在网上找了点小软件，下面一个一个地说：
  
- - Search and Replace(版本6.5) 
+ - [Search and Replace](http://vdisk.weibo.com/s/BoFC5)(版本6.5) 
     + 功能：证词匹配、搜索子目录、正则、忽略空格、更改文件属性、脚本等
     + 使用了一下，开始感觉好强大，但当我需要进行正则中的[零宽断言](http://baike.baidu.com/view/5201192.htm)时，发现它不支持，而我又是必须使用的，那就换一个
- - RegexTester(版本1.0.8.0)
+ - [RegexTester](http://vdisk.weibo.com/s/BoGnv)(版本1.0.8.0)
     + 该软件是[deerchao的blog](http://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html#balancedgroup)中推荐的正则表达式测试软件。.Net Framework 4.0 下正则表达式的行为。
     + 功能：查找替换（可以忽略大小写、空白，显示匹配）
     + 查找替换对象必须为文本，不能是文件
     + 该软件作为日常的正则校验是可以的，但是文本文件替换，还是算了吧
- - UltraReplace.exe(版本5.0.2)
+ - [UltraReplace.exe](http://vdisk.weibo.com/s/BoGKL)(版本5.0.2)
     + 好强大功能：目录、文件下查找替换，文件后缀，特征替换、批量替换、恢复（回滚），区分大小写，替换前备份等
     + 我在做这个替换任务的时候，最开始用的就是这个。但，当我需要使用特殊的正则时，它就不支持了，如零宽断言。于是，我就继续寻找满足我要求的小工具。
     + 如果你只使用普通的正则，我仍推荐你用这个。
- - SuperTextReplace.exe(V3.0)
+ - SuperTextReplace.exe(V3.0)(安装版的，就不给链接了)
     + 功能：基本功能都有，并且，界面上我认为和 UltraReplace 类似，但是没有后者强大
     + 使用了几下，感觉操作不舒服，于是就放掉了，也不支持零宽断言
- - PilotEdit
+ - PilotEdit(安装版的，就不给链接了)
     + 功能蛮强大的，但是我不喜欢它的操作界面和方式。也不支持零宽断言。
- - Bulk Rename Utility(版本2,7,1,2)
+ - [Bulk Rename Utility](http://vdisk.weibo.com/s/BoHfj)(版本2,7,1,2)
     + 不得不说，它与上面几个小工具都不太一样。同时也具备强大文件重命名的功能。我在做这个任务时使用到了这个软件，但是遗憾的是，也不支持零宽断言。
     + 它的界面有好多框、按钮。所以，功能才很强大。
 
