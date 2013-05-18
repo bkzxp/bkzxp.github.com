@@ -1,3 +1,10 @@
+---
+layout : post
+category : lessons
+tags : [影音]
+title : 妈咪台词
+---
+
 刚看了电影《妈咪》，从中汲取到了对我有用的东西。
 
 诗诗的台词：（好长）
