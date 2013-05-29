@@ -58,5 +58,5 @@ title : 人月神话--祸起萧墙
 	<li><div>计划日期和估计日期</div>
 		<ul>
 	<li><div>计划日期是项目经理 的工作产物，代表了经协调后的项目整体工作计划，它是合理计划之前的判断。估计日期是 最基层经理的工作产物，基层经理对所讨论的工作有着深刻的了解，估计日期代表了在现有 资源和已得到了作为先决条件的必要输入（或得到了相应的承诺）的情况下，基层经理对实 际实现日期的最佳判断</div></li></ul></li></ul>
-<div style="background-color:#ff0000;"><a href="/lessons/2013/04/21/man-month-read15/" title="下一篇">下一篇</a></div>
+<div style="background-color:#ff0000;"><a href="/lessons/2013/05/29/man-month-read15/" title="下一篇">下一篇</a></div>
 </li></ul></div>
