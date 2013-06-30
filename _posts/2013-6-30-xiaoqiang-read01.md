@@ -52,13 +52,13 @@ title : 小强升职记--第一二章
         <ul>
     <li><div>看看你浪费了多长时间</div>
         <ul>
-    <li><div>时间统计表<img src="/assets/img/shijiantongji.jpg" alt="替代文本" title="标题文本" width="200" /></div></li></ul></li>
+    <li><div>时间统计表(见页底)</div></li></ul></li>
     <li><div>记录一整天的工作情况</div>
         <ul>
-    <li><div>一天工作表<img src="/assets/img/yitiangongzuobiao.jpg" alt="替代文本" title="标题文本" width="200" /></div></li></ul></li>
+    <li><div>一天工作表(见页底)</div></li></ul></li>
     <li><div>填写一周的时间日志</div>
         <ul>
-    <li><div>一周时间日志<img src="/assets/img/yizhoushijianrizhi.jpg" alt="替代文本" title="标题文本" width="200" /></div></li></ul></li>
+    <li><div>一周时间日志(见页底)</div></li></ul></li>
     <li><div>找到自己的职业价值观</div>
         <ul>
     <li><div>价值观测量表(见页底)</div></li></ul></li></ul></li>
@@ -207,5 +207,8 @@ title : 小强升职记--第一二章
     <li><div>精力</div></li></ul></li></ul></li></ul></li></ul></li>
     </ul></li></ul>
     <u>
-        <li><a href="/files/价值观测量表.pdf">价值观测量表</a></li></u>
+        <li><img src="/assets/img/shijiantongji.jpg" alt="时间统计表" title="时间统计表" width="700" /></li>
+        <li><img src="/assets/img/yitiangongzuobiao.jpg" alt="一天工作表" title="一天工作表" width="700" /></li>
+        <li><img src="/assets/img/yizhoushijianrizhi.jpg" alt="一周时间日志" title="一周时间日志" width="700" /></li>
+        <li><a href="/files/01.pdf">价值观测量表</a></li></u>
 </div>
