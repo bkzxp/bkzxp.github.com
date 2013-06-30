@@ -2,9 +2,8 @@
 layout : post
 category : lessons
 tags : [设计]
-title : 让用户用的爽我们的软件
+title : 让用户用得爽我们的软件
 ---
-[思维导图文件下载](http://bkzxp.github.com)
 
 ## 最完美的境界：
 
