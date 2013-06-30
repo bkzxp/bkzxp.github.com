@@ -23,7 +23,7 @@ title : 人月神话--目录
 	<li><div><a href="/lessons/2013/04/21/man-month-read14/" title="祸起萧墙">祸起萧墙</a> </div></li>
 	<li><div><a href="/lessons/2013/05/29/man-month-read15/" title="另外一面">另外一面</a> </div></li>
 	<li><div><a href="/lessons/2013/05/29/man-month-read16/" title="没有银弹-软件工程中的根本和次要问题">没有银弹-软件工程中的根本和次要问题</a> </div></li>
-	<li><div><a href="/lessons/2013/01/30/man-month-read17/" title="再论没有银弹">再论没有银弹</a> </div></li>
-	<li><div><a href="/lessons/2013/01/30/man-month-read18/" title="人月神话的观点:是或非">人月神话的观点:是或非</a> </div></li>
+	<li><div><a href="/lessons/2013/06/30/man-month-read17/" title="再论没有银弹">再论没有银弹</a> </div></li>
+	<li><div><a href="/lessons/2013/06/30/man-month-read18/" title="人月神话的观点:是或非">人月神话的观点:是或非</a> </div></li>
 </ul>
 </li></ul></div>
