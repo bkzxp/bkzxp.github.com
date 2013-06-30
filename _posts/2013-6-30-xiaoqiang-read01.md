@@ -29,7 +29,7 @@ title : 小强升职记--第一二章
     <li><div>时间黑洞不仅将“无意义”的时间吞噬，还将“集中精力”的时间破坏。</div>
         <ul>
     <li><div>避免在高效工作时被打断</div></li></ul></li>
-    <li><div>时间日志是避开时间黑洞、找到高效时段的法宝</div>
+    <li><div>时间日志是避开时间黑洞、找到高效时段的法宝(避开黑洞图，见页底)</div>
         <ul>
     <li><div>◎  每小时提醒你珍惜自己的时间。</div></li>
     <li><div>◎  充分地掌握自己的时间，避免轻易原谅自己。 </div></li>
@@ -77,7 +77,7 @@ title : 小强升职记--第一二章
     <li><div>四象限法则的使用</div>
         <ul>
     <li><div>列出一周的任务清单</div></li>
-    <li><div>标识紧急程度、重要程度、优先级</div></li>
+    <li><div>标识紧急程度、重要程度、优先级(重要性与紧迫程度图，见页底)</div></li>
     <li><div>放入四个象限中</div></li></ul></li>
     <li><div>老付处理四象限事务的原则</div>
         <ul>
@@ -87,7 +87,7 @@ title : 小强升职记--第一二章
     <li><div>第四象限：尽量别去做！</div></li></ul></li>
     <li><div>走出第三象限</div>
         <ul>
-    <li><div>如果你能让别人去抚养他们自己的猴子，他们就能真正地管理自己的工作，你也就有足 够的时间去处理自己的事情。</div></li></ul></li>
+    <li><div>如果你能让别人去抚养他们自己的猴子，他们就能真正地管理自己的工作，你也就有足 够的时间去处理自己的事情。(猴子法则练习图，见页底)</div></li></ul></li>
     <li><div>走入第二象限</div>
         <ul>
     <li><div>四象限法小结</div>
@@ -210,5 +210,8 @@ title : 小强升职记--第一二章
         <li><img src="/assets/img/shijiantongji.jpg" alt="时间统计表" title="时间统计表" width="700" /></li>
         <li><img src="/assets/img/yitiangongzuobiao.jpg" alt="一天工作表" title="一天工作表" width="700" /></li>
         <li><img src="/assets/img/yizhoushijianrizhi.jpg" alt="一周时间日志" title="一周时间日志" width="700" /></li>
+        <li><img src="/assets/img/bikaixiaocelue.jpg" alt="避开时间黑洞小策略" title="避开时间黑洞小策略" width="700" /></li>
+        <li><img src="/assets/img/zhongyaoyujinpo.jpg" alt="重要与紧迫程度的事件" title="重要与紧迫程度的事件" width="700" /></li>
+        <li><img src="/assets/img/houzifa.jpg" alt="猴子法则练习题" title="猴子法则练习题" width="700" /></li>
         <li><a href="/files/01.pdf">价值观测量表</a></li></u>
 </div>
