@@ -210,8 +210,8 @@ title : 小强升职记--第一二章
         <li><img src="/assets/img/shijiantongji.jpg" alt="时间统计表" title="时间统计表" width="700" /></li>
         <li><img src="/assets/img/yitiangongzuobiao.jpg" alt="一天工作表" title="一天工作表" width="700" /></li>
         <li><img src="/assets/img/yizhoushijianrizhi.jpg" alt="一周时间日志" title="一周时间日志" width="700" /></li>
-        <li><img src="/assets/img/bikaixiaocelue.jpg" alt="避开时间黑洞小策略" title="避开时间黑洞小策略" width="700" /></li>
-        <li><img src="/assets/img/zhongyaoyujinpo.jpg" alt="重要与紧迫程度的事件" title="重要与紧迫程度的事件" width="700" /></li>
-        <li><img src="/assets/img/houzifa.jpg" alt="猴子法则练习题" title="猴子法则练习题" width="700" /></li>
+        <li><img src="/assets/img/bikaixiaocelue.jpg" alt="避开时间黑洞小策略" title="避开时间黑洞小策略" width="600" /></li>
+        <li><img src="/assets/img/zhongyaoyujinpo.jpg" alt="重要与紧迫程度的事件" title="重要与紧迫程度的事件" width="500" /></li>
+        <li><img src="/assets/img/houzifa.jpg" alt="猴子法则练习题" title="猴子法则练习题" width="400" /></li>
         <li><a href="/files/01.pdf">价值观测量表</a></li></u>
 </div>
