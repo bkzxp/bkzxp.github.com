@@ -205,6 +205,4 @@ title : 小强升职记--第一二章
     <li><div>环境</div></li>
     <li><div>时间</div></li>
     <li><div>精力</div></li></ul></li></ul></li></ul></li></ul></li>
-    <li><div>我的计划</div>
-        <ul>
-    <li><div>在6.24-6.30这段时间完成“老付布置的作业”，找到自己的职业价值观，创建自己的时间日志</div></li></ul></li></ul></li></ul></div>
+    </ul></li></ul></div>
