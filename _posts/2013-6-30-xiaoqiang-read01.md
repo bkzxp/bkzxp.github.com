@@ -43,25 +43,25 @@ title : 小强升职记--第一二章
     <li><div>第四步：在自己最高效的时段，做最重要的事情；其他的事情也做合理安排。</div></li></ul></li>
     <li><div>老付的提高工作效率的方法 </div>
         <ul>
-    <li><div>1．找出重要的事情在高效时段搞定</div></li>
-    <li><div>2.  回顾你需要发布或者呈送给上司的资料</div></li>
-    <li><div>3.  看新闻用 RSS</div></li>
-    <li><div> 4.减少检查邮件的次数</div></li>
-    <li><div>5.  能休息的时候尽量休息</div></li></ul></li>
+    <li><div>1.找出重要的事情在高效时段搞定</div></li>
+    <li><div>2.回顾你需要发布或者呈送给上司的资料</div></li>
+    <li><div>3.看新闻用 RSS</div></li>
+    <li><div>4.减少检查邮件的次数</div></li>
+    <li><div>5.能休息的时候尽量休息</div></li></ul></li>
     <li><div>老付布置的作业</div>
         <ul>
     <li><div>看看你浪费了多长时间</div>
         <ul>
-    <li><div>时间统计表</div></li></ul></li>
+    <li><div>时间统计表<img src="/assets/img/shijiantongji.jpg" alt="替代文本" title="标题文本" width="200" /></div></li></ul></li>
     <li><div>记录一整天的工作情况</div>
         <ul>
-    <li><div>一天工作表</div></li></ul></li>
+    <li><div>一天工作表<img src="/assets/img/yitiangongzuobiao.jpg" alt="替代文本" title="标题文本" width="200" /></div></li></ul></li>
     <li><div>填写一周的时间日志</div>
         <ul>
-    <li><div>一周时间日志</div></li></ul></li>
+    <li><div>一周时间日志<img src="/assets/img/yizhoushijianrizhi.jpg" alt="替代文本" title="标题文本" width="200" /></div></li></ul></li>
     <li><div>找到自己的职业价值观</div>
         <ul>
-    <li><div>价值观测量表</div></li></ul></li></ul></li>
+    <li><div>价值观测量表(见页底)</div></li></ul></li></ul></li>
     <li><div>制定自己的计划</div>
         <ul>
     <li><div>自己的时间日志</div></li></ul></li></ul></li>
@@ -205,4 +205,7 @@ title : 小强升职记--第一二章
     <li><div>环境</div></li>
     <li><div>时间</div></li>
     <li><div>精力</div></li></ul></li></ul></li></ul></li></ul></li>
-    </ul></li></ul></div>
+    </ul></li></ul>
+    <u>
+        <li><a href="/files/价值观测量表.pdf">价值观测量表</a></li></u>
+</div>
