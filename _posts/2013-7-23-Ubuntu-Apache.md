@@ -44,7 +44,7 @@ title : Ubuntu安装Apache
         
 仍提示APR-util not found，在于不知apr-util的路径，增加--with-apr=/usr/local/apr --with-apr-util=/usr/local/apr-util参数输入
 
-        tpbk@tpbk-T420:/usr/local/work/httpd-2.4.4$ ./configure --prefix=/usr/local/apache --enable-module=shared　--with-apr=/usr/local/apr --with-apr-util=/usr/local/apr-util
+        tpbk@tpbk-T420:/usr/local/work/httpd-2.4.4$ ./configure --prefix=/usr/local/apache2 --enable-module=shared　--with-apr=/usr/local/apr --with-apr-util=/usr/local/apr-util
         
 又出现问题了：configure: error: pcre-config for libpcre not found. PCREis required and  available from http://pcre.org 这是因为没有安装pcre的原因。
 
@@ -54,7 +54,7 @@ title : Ubuntu安装Apache
         tpbk@tpbk-T420:/usr/local/work/pcre-8.33$ sudo ./configure --prefix=/usr/local/pcre
         tpbk@tpbk-T420:/usr/local/work/pcre-8.33$ sudo make
         tpbk@tpbk-T420:/usr/local/work/pcre-8.33$ sudo make install
-        tpbk@tpbk-T420:/usr/local/work/httpd-2.4.4$ ./configure --prefix=/usr/local/apache --enable-module=shared  --with-apr=/usr/local/apr/ --with-apr-util=/usr/local/apr-util/ --with-pcre=/usr/local/pcre
+        tpbk@tpbk-T420:/usr/local/work/httpd-2.4.4$ ./configure --prefix=/usr/local/apache2 --enable-module=shared  --with-apr=/usr/local/apr/ --with-apr-util=/usr/local/apr-util/ --with-pcre=/usr/local/pcre
         tpbk@tpbk-T420:/usr/local/work/httpd-2.4.4$ sudo make
         tpbk@tpbk-T420:/usr/local/work/httpd-2.4.4$ sudo make install
 
