@@ -1,0 +1,90 @@
+---
+layout : post
+category : lessons
+tags : [读书, 小强升职记]
+title : 小强升职记--第三章
+---
+
+
+<div><ul>
+	<li><div>小强升职记------长出主干和枝桠</div>
+		<ul>
+	<li><div>制定目标让工作忙碌而不盲目</div>
+		<ul>
+	<li><div>目标作用</div>
+		<ul>
+	<li><div>给人明确的方向感吗，使人充分了解每个行为的目的</div></li>
+	<li><div>让人清晰地评估自己的行为，从而全面检讨自己的行为</div></li>
+	<li><div>让人从忙乱中转移到自己工作的重点上</div></li>
+	<li><div>让人更关注结果，产生持久的动力</div></li>
+	<li><div>发挥人的潜能</div></li></ul></li>
+	<li><div>一般人不能达成目标的原因</div>
+		<ul>
+	<li><div>设定了本不能达成的目标</div></li>
+	<li><div>没有将目标分解成计划</div></li>
+	<li><div>放任偶尔的失败</div></li>
+	<li><div>没有写下来</div></li>
+	<li><div>没有及时修正自己的目标</div></li>
+	<li><div>没有坚持行动</div></li></ul></li></ul></li>
+	<li><div>实现目标的第一步：正确描述目标</div>
+		<ul>
+	<li><div>SMART原则</div>
+		<ul>
+	<li><div>具体的</div></li>
+	<li><div>可测量的</div></li>
+	<li><div>可实现的</div></li>
+	<li><div>可实行的</div></li>
+	<li><div>时间线</div></li></ul></li>
+	<li><div>消除了“设定了本不能达成的目标”</div></li></ul></li>
+	<li><div>向大树学习目标分解</div>
+		<ul>
+	<li><div>树根</div>
+		<ul>
+	<li><div>写出自己的目标</div></li>
+	<li><div>为什么要达成此目标</div></li>
+	<li><div>为什么可以达成次目标</div></li>
+	<li><div>哪些个人、团体对我达成这个目标有帮助</div></li>
+	<li><div>我这个目标要在多长时间内完成</div></li></ul></li>
+	<li><div>树干</div>
+		<ul>
+	<li><div>写下达成此目标的计划步骤</div></li></ul></li>
+	<li><div>树枝</div>
+		<ul>
+	<li><div>在月目标计划中写出打算如何完成计划的步骤</div></li></ul></li>
+	<li><div>树杈</div>
+		<ul>
+	<li><div>将月目标计划中的内容细化到每一周</div></li></ul></li>
+	<li><div>消除了“没有将目标分解成计划”</div></li></ul></li>
+	<li><div>提高执行力</div>
+		<ul>
+	<li><div>找到最大的石头</div></li>
+	<li><div>写下来</div>
+		<ul>
+	<li><div>写到才能做到</div></li>
+	<li><div>大脑提供灵感，笔、纸细化行动</div></li>
+	<li><div>白纸黑字才是契约</div></li></ul></li>
+	<li><div>拒绝第一次失败</div>
+		<ul>
+	<li><div>防止连锁反应</div></li>
+	<li><div>防止麻木</div></li></ul></li>
+	<li><div>正确面对失败</div>
+		<ul>
+	<li><div>重视失败，分析原因</div></li>
+	<li><div>以变化应对变化，重新审视自己的目标</div></li></ul></li>
+	<li><div>消除了“放任偶尔的失败”、“没有写下来”、“没有及时修正自己的目标”</div></li></ul></li>
+	<li><div>让目标形成一种合力</div>
+		<ul>
+	<li><div>规划自己的人生</div></li>
+	<li><div>不做收藏家，要做建筑工</div>
+		<ul>
+	<li><div>避免把玩目标</div></li>
+	<li><div>这些目标像是魔镜，让你沉醉于你所描述的生活</div></li></ul></li>
+	<li><div>当意志消沉的时候，看看那三个锦囊</div>
+		<ul>
+	<li><div>找到最大的石头</div></li>
+	<li><div>写下来</div></li>
+	<li><div>拒绝第一次失败</div></li></ul></li></ul></li>
+	<li><div>哲理</div>
+		<ul>
+	<li><div>时间是个非常奇怪的东西，当你想挥霍它的时候，它会尽量地满足你，让你绝地时间怎么挥霍都用不完。但是，当你想要珍惜它的时候，它又会特别地吝啬，让你觉得时光飞逝，转眼已是尽头。</div></li>
+	<li><div>优秀的人有优秀的系统，普通人有普通的系统，失败的人没有系统</div></li></ul></li></ul></li></ul></div>
