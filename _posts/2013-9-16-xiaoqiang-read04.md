@@ -1,0 +1,74 @@
+---
+layout : post
+category : lessons
+tags : [读书, 小强升职记]
+title : 小强升职记--第五章
+---
+
+
+<div><ul>
+	<li><div>小强升职记------在开花与结果中成长</div>
+		<ul>
+	<li><div>成功从习惯开始</div>
+		<ul>
+	<li><div>我们都是机器人</div>
+		<ul>
+	<li><div>如：每天早上的洗脸刷牙都是习惯</div></li>
+	<li><div><strong>思考：以前上学的时候自己想过，为什么我今天吃这个饭，那是因为我昨天吃的就是这个；为什么我这样做这件事，因为我上次就是这样做的。于是你就会发现：只有思考，才可能让你改变习惯，如果这些是坏习惯的话</strong></div></li></ul></li>
+	<li><div>我们和杰出人物差别在哪里</div>
+		<ul>
+	<li><div>不是天赋和机遇</div></li>
+	<li><div>是他们能够把目标转化为习惯</div></li></ul></li>
+	<li><div>习惯要写入任务清单吗</div>
+		<ul>
+	<li><div>任务清单是需要每天清空的，而培养习惯需要周期来做的</div></li>
+	<li><div>最好的办法是将习惯写入别人的任务清单</div></li>
+	<li><div>将工作和生活严格区分开，培养习惯应该建立在生活的范畴</div></li>
+	<li><div>当不假思索地做起某事情时，就已经养成习惯了；所以不需要写入任务清单</div></li></ul></li>
+	<li><div>规划自己的习惯</div>
+		<ul>
+	<li><div>一定要将习惯写下来</div></li></ul></li></ul></li>
+	<li><div>怎样才能有效地培养习惯</div>
+		<ul>
+	<li><div>早晨1小时（早起）</div>
+		<ul>
+	<li><div>不被打扰，别人在睡觉</div></li>
+	<li><div>用来思考自己的人生、价值观之类的</div></li>
+	<li><div>也可以用来身体锻炼</div></li>
+	<li><div>一个人能不能养成良好的习惯，取决于他的意愿有多强烈</div></li></ul></li>
+	<li><div>步骤1：一次培养一个习惯</div>
+		<ul>
+	<li><div>第一阶段：刚开始的头三天</div>
+		<ul>
+	<li><div>危险期，失败率达到80%</div></li></ul></li>
+	<li><div>第二阶段：三天至一个月</div>
+		<ul>
+	<li><div>狠下心对自己进行磨练和捶打</div></li></ul></li>
+	<li><div>第三个阶段：一个月以后</div>
+		<ul>
+	<li><div>容易放松警惕；要将注意力放在其他地方，不要刻意关注自己的习惯</div></li></ul></li></ul></li>
+	<li><div>步骤2：和自己谈谈</div>
+		<ul>
+	<li><div>告诉潜意识这很重要</div></li>
+	<li><div>不断重复意愿</div></li>
+	<li><div>使用习惯培养卡片</div></li></ul></li>
+	<li><div>步骤3：循序渐进制定培养计划</div>
+		<ul>
+	<li><div>写下来</div>
+		<ul>
+	<li><div>只有写下来才能发现当前计划的更多问题</div></li></ul></li>
+	<li><div>循序渐进</div></li>
+	<li><div>简单</div>
+		<ul>
+	<li><div>将复杂的东西简单化</div></li></ul></li>
+	<li><div>明确具体</div>
+		<ul>
+	<li><div>S.M.A.R.T法则</div></li></ul></li></ul></li>
+	<li><div>步骤4：将你的计划公之于众</div>
+		<ul>
+	<li><div>同伴，可以与你一起努力，相互支持</div></li>
+	<li><div>监督，让你周围的人帮助你</div></li>
+	<li><div>支柱，想想你的家人</div></li></ul></li>
+	<li><div>步骤5：执行计划</div>
+		<ul>
+	<li><div>做实践者，而不是空想家</div></li></ul></li></ul></li></ul></li></ul></div>

@@ -1,0 +1,123 @@
+---
+layout : post
+category : lessons
+tags : [读书, 小强升职记]
+title : 小强升职记--第六章
+---
+
+
+<div><ul>
+	<li><div>小强升职记------摘下够得着的果实</div>
+		<ul>
+	<li><div>搬走最大的石头</div>
+		<ul>
+	<li><div>日回顾法则：不断地完善自己</div>
+		<ul>
+	<li><div>每日三问（要写下）</div>
+		<ul>
+	<li><div>哪几件事情做的出色</div></li>
+	<li><div>哪几件事情可以处理得更好</div></li>
+	<li><div>觉得自己在哪方面可以做的更好</div></li></ul></li>
+	<li><div>个人成长方法</div>
+		<ul>
+	<li><div>帮助回顾每日工作</div></li>
+	<li><div>帮助建立自信心</div></li>
+	<li><div>帮助找到目标</div></li></ul></li>
+	<li><div>与自己沟通</div>
+		<ul>
+	<li><div>可以自己编写一些沟通的话题</div></li>
+	<li><div>如今天微笑了吗</div></li>
+	<li><div>今天有哪些收获</div></li></ul></li></ul></li>
+	<li><div>80/20法则</div>
+		<ul>
+	<li><div>用80%时间思考，用20%的时间做事情</div></li>
+	<li><div>做20%的事情，创造出80%的产出</div></li>
+	<li><div>应用：每天给自己的计划</div>
+		<ul>
+	<li><div>必须做的事情（每天20%的关键任务）</div></li>
+	<li><div>应该做的事情（普通任务）</div></li>
+	<li><div>能够做的事情（附加的任务）</div></li></ul></li></ul></li>
+	<li><div>搞定每日清单上的BOSS项（每天只有1个）</div>
+		<ul>
+	<li><div>可以界定我的成功</div></li>
+	<li><div>可以帮助我确立自信</div></li>
+	<li><div>可以帮助我调整计划</div></li>
+	<li><div>可以帮助我回顾</div></li></ul></li></ul></li>
+	<li><div>神奇的Unbroken Time</div>
+		<ul>
+	<li><div>能让我们的生产力成倍的提高</div></li>
+	<li><div>通常应该设置成超过半个小时</div></li>
+	<li><div>在这段时间我们应该</div>
+		<ul>
+	<li><div>做好一切准备工作</div>
+		<ul>
+	<li><div>准备好记录工具</div></li>
+	<li><div>处理掉当前需要立即做的事情</div></li></ul></li>
+	<li><div>让自己的心完全静下来</div>
+		<ul>
+	<li><div>将大脑中的东西统统剪出来</div></li>
+	<li><div>尽量切断信息干扰源，通常闭目是个号选择</div></li>
+	<li><div>每天固定的时间段来进行Unbroken Time</div></li></ul></li>
+	<li><div>进行头脑风暴</div></li>
+	<li><div>重新整理你的思路</div>
+		<ul>
+	<li><div>在不被打扰的时间结束后一定要重新整理你的思路</div></li></ul></li></ul></li>
+	<li><div>Unbroken Time用来做什么</div>
+		<ul>
+	<li><div>规划，如人生规划，职业规划等</div></li>
+	<li><div>总结和回顾</div></li>
+	<li><div>策划</div></li>
+	<li><div>读书</div></li>
+	<li><div>写作</div></li>
+	<li><div>创意</div></li></ul></li></ul></li>
+	<li><div>如何处理临时突发事件</div>
+		<ul>
+	<li><div>如何做</div>
+		<ul>
+	<li><div>要事第一</div>
+		<ul>
+	<li><div>以原则为中心而生活的人最幸福</div></li>
+	<li><div>判断标准：事情对自己来说很重要</div></li></ul></li>
+	<li><div>委婉而坚决的拒绝</div></li>
+	<li><div>争取下次机会</div>
+		<ul>
+	<li><div>不久后要询问事情的进展</div></li>
+	<li><div>要表示如果有下一次肯定不会错过</div></li></ul></li></ul></li>
+	<li><div>调整遇到突发事件时的情绪</div>
+		<ul>
+	<li><div>立即放松</div></li>
+	<li><div>做最坏的打算</div></li>
+	<li><div>默念口诀，让自己来放松自己</div></li>
+	<li><div>改变自己的肢体/面部语言</div></li>
+	<li><div>积极乐观</div></li></ul></li>
+	<li><div>面对突发事件要掌握的原则</div>
+		<ul>
+	<li><div>不要让突发事件影响你的情绪</div></li>
+	<li><div>重视“再次放入收集栏”的步骤</div></li>
+	<li><div>向周围的人推荐自己使用的时间管理法</div></li></ul></li>
+	<li><div>如何保证不会丢失自己当前的工作</div>
+		<ul>
+	<li><div>确定当前工作进度</div></li>
+	<li><div>目前对当前工作的想法</div></li>
+	<li><div>本打算如何处理当前的工作</div></li>
+	<li><div>有条件就录音</div></li>
+	<li><div>“下一步行动”，关注自己的下一步行动</div></li></ul></li></ul></li>
+	<li><div>建立高效办公区</div>
+		<ul>
+	<li><div>彻底清理办公环境</div>
+		<ul>
+	<li><div>把资料分为4类</div>
+		<ul>
+	<li><div>待处理</div></li>
+	<li><div>委托他人处理</div></li>
+	<li><div>整理归档</div></li>
+	<li><div>扔进废纸篓</div>
+		<ul>
+	<li><div>一定要设置一个期限，过了期限就坚决扔掉</div></li></ul></li>
+	<li><div>还必须有个“其他”存放乱七八糟无法归类的东西</div></li></ul></li>
+	<li><div>高效办公区应该有的特点</div>
+		<ul>
+	<li><div>干净整洁</div></li>
+	<li><div>足够简单</div></li>
+	<li><div>触手可及</div></li>
+	<li><div>功能完备</div></li></ul></li></ul></li></ul></li></ul></li></ul></div>
