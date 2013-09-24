@@ -1,7 +1,7 @@
 ---
 layout : post
 category : lessons
-tags : [lubuntu]
+tags : [Lubuntu]
 title : Lubuntu任务栏消失的问题以及解决办法
 ---
 
