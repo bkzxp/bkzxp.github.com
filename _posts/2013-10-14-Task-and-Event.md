@@ -1,7 +1,7 @@
 ---
 layout : post
 category : lessons
-tags : [TDD]
+tags : [GTD]
 title : task和event的区别
 ---
 
