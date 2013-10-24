@@ -2,7 +2,7 @@
 layout : post
 category : lessons
 tags : [Lubuntu]
-title : lubuntu 升级到 13.10（出问题啦）
+title : Lubuntu 升级到 13.10（出问题啦）
 ---
 
 
@@ -18,9 +18,8 @@ title : lubuntu 升级到 13.10（出问题啦）
     sudo apt-get install ia32-libs
     #有错误显示:找不到/不能安装，可是下列软件包取代了它：lib32z1 lib32ncurses5 lib32bz2-1.0
 
-然后就用“”google，发现了[这篇文章](http://lancehan.iteye.com/blog/1956785),
+然后就用“可是下列软件包取代了它：lib32z1 lib32ncurses5 lib32bz2-1.0”google，发现了[这篇文章](http://lancehan.iteye.com/blog/1956785)，给出的建议是执行下行命令：
 
-    #给出的建议是执行下行命令：
     sudo apt-get install g++-multilib
     sudo apt-get install ia32-libs
     #有错误显示:找不到/不能安装，可是下列软件包取代了它：lib32z1 lib32ncurses5 lib32bz2-1.0
@@ -54,12 +53,12 @@ title : lubuntu 升级到 13.10（出问题啦）
 
     #无法修正错误，因为您要求某些软件包保持现状，就是它们破坏了软件包间的依赖关系
     
-然后就找到了这篇[文章](http://www.cnblogs.com/LeoGodfrey/p/3316834.html)，说是源的问题，让打开软件和更新，在“更新”选项卡中选则：重要安全更新 和 推荐更新，然后在“其他软件”选项卡中，去掉有问题等源。最后进行“sudo apt-get update”操作。但问题是不知道什么是“有问题的源”。我尝试在“其他软件”中删除一个源，发现“其他软件”中有的源显示“已禁止升级到……”，然后就google，找到了这篇[文章](https://wiki.ubuntu.org.cn/viewtopic.php?f=48&t=415960),说：
+然后就找到了这篇[文章](http://www.cnblogs.com/LeoGodfrey/p/3316834.html)，说是源的问题，让打开软件和更新，在“更新”选项卡中选则：重要安全更新 和 推荐更新，然后在“其他软件”选项卡中，去掉有问题等源。最后进行“sudo apt-get update”操作。但问题是我不知道什么是属于“有问题的源”。我尝试在“其他软件”中删除一个源，发现“其他软件”中有的源显示“已禁止升级到……”，然后就google，找到了这篇[文章](https://wiki.ubuntu.org.cn/viewtopic.php?f=48&t=415960),说：
 
     说明这2个源还不支持新版本。被禁止了。
     cd /etc/apt/sources.list.d/ 里面直接删除就是。
 
-然后，我就进入目录删掉了一个
+然后，我就进入目录删掉了一个，使用如下的命令：
 
     sudo rm fingerprint-fingerprint-gui-raring.list
 
@@ -104,11 +103,11 @@ google这个错误，找到了这篇[文章](http://bbs.94yun.com/forum.php?mod=
 我只进行了第一步，然后尝试继续“ sudo dpkg --configure -a ”，ok了，然后接着执行“ sudo apt-get -f install ”，直至 update。然后开始安装32位库了吧：
 
     sudo apt-get install ia32-libs
-出现错误：
+但又出现错误：
 
     ……/var/cache/apt/archives/libglib2.0-0_2.38.0-1ubuntu1_i386.deb……
     Sub-process /usr/bin/dpkg returned an error code (1)
-然后我用“ Sub-process /usr/bin/dpkg returned an error code (1) ”搜索，然后找到了这篇文章[http://forum.ubuntu.org.cn/viewtopic.php?f=86&t=90547],说：
+然后我用“ Sub-process /usr/bin/dpkg returned an error code (1) ”搜索，然后找到了[这篇文章](http://forum.ubuntu.org.cn/viewtopic.php?f=86&t=90547),说：
 
     有的时候，使用sudo apt-get install可能导致意想不到的错误，尤其是中途中断了安装时，错误信息为：
     E: Sub-process /usr/bin/dpkg returned an error code (1)
@@ -119,6 +118,9 @@ google这个错误，找到了这篇[文章](http://bbs.94yun.com/forum.php?mod=
     重新安装，在此为：
     sudo apt-get --reinstall install ×××××
     
-然后，我就按上面的执行，然后执行 reinstall 。顺利安装。
-接着尝试 Scrivener 和 WPS ，均能正常打开。很好问题解决了，但被我删掉的那些源怎么办？包含输入反 fcitx 和指纹扫描等的源。
+然后，我就按上面的执行，然后执行 reinstall :
+
+    sudo apt-get --reinstall install ia32-libs
+顺利安装。
+接着尝试打开 Scrivener 和 WPS ，均能正常打开。很好，问题解决了，但被我删掉的那些源怎么办？包含输入法 fcitx 和指纹扫描等的源。
 
