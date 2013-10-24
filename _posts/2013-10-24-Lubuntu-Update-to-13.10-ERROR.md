@@ -2,7 +2,7 @@
 layout : post
 category : lessons
 tags : [Lubuntu]
-title : Lubuntu 升级到 13.10（出问题啦）
+title : Lubuntu 升级到 13.10（32位库出问题啦）
 ---
 
 
