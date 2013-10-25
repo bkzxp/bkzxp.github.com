@@ -2,7 +2,7 @@
 layout : post
 category : lessons
 tags : [Lubuntu]
-title : Lubuntu 升级到 13.10（32位库出问题啦）
+title : Lubuntu 升级到 13.10（成功安装32位的过程）
 ---
 
 
