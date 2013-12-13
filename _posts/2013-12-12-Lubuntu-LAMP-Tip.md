@@ -14,6 +14,5 @@ title : 在lubuntu上安装配置LAMP的注意点
     我最初不知道将自定义的域名信息放在哪里，原来这个位置和windows里面是一样的，也是在/etc/hosts,于是直接编辑hosts
 
     需要允许列出目录的权限 在allow 和 deny 那里添加
-    
+
     虚拟目录中的log error的地址要与apache2的地址一致
-    
