@@ -5,7 +5,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 #markdown: rdiscount
-pygments: true
+#pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -29,6 +29,7 @@ author :
 #
 production_url : http://www.bkzxp.cc
 
+highlighter : rouge
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
